@@ -1,1 +1,13 @@
-
+{
+"Summery" : "Profile icon is positioned incorrectly" ,
+"Description" : "Profile icon is positioned incorrectly" ,
+"Actual_Result" : "It is placed between «Markets» and «Asset Classes»" ,
+"Expected_Result" : "It is placed between «Asset Classes» and «Reuters Insider»" ,
+"Steps_to_reproduce" : {
+  "Step_1" : "Log in" ,
+  "Step_2" : "Look at Main horizontal menu with icons" 
+                        }
+"Severity" : "minor" ,
+"Priority" : "high"
+"Reproducible" : "always"
+  }
